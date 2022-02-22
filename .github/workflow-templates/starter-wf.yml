@@ -1,4 +1,4 @@
-name: Octo Organization CI
+name: Scoppa-WF
 
 on:
   push:
