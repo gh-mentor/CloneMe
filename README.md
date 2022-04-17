@@ -2,4 +2,4 @@
 
 This repository holds the slide deck for students of the GitHub Developers course. 
 
-Let's learn GitHub and Git!
+Let's learn source control using GitHub and Git!
