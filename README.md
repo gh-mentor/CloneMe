@@ -1,4 +1,4 @@
-# Clone this repo
+# Clone this repo!
 
 This repository holds the slide deck for students of the GitHub Developers course. 
 
