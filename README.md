@@ -1,4 +1,4 @@
-# Clone Me
+# CloneMe
 
 This repo contains the slide deck for students of the GitHub Developers course. 
 
